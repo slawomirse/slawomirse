@@ -21,7 +21,7 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 **Tech stack:**
 
 [![Tech stack](https://skillicons.dev/icons?i=docker,gcp,mongodb,py)](https://skillicons.dev)
-<img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="Alt text" width="50" height="50" style="padding-left: 100px;">
+<img src="https://its.ucr.edu/sites/default/files/styles/form_preview/public/powerbi%20logo%201.png?itok=yYXO-S-V" alt="Alt text" width="50" height="50" style="padding-left: 100px; border-radius:15px;">
 <img src="https://pbs.twimg.com/profile_images/1318604600677527552/stk8sqYZ_400x400.png" alt="Alt text" width="50" height="50" style="padding-left: 100px;">
 
 
