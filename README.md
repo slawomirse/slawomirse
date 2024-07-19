@@ -18,6 +18,8 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 
 **Description:** This project aims to provide a comprehensive solution for monitoring real estate properties and their market trends. Whether you are a real estate investor, agent, or simply interested in the market, this project will provide you with valuable insights and tools
 
+**Link to created Dashboard:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjE3YTAyMDItODAwZS00Mjg4LWFjYzktNjNjNGUyOGJkMGQ2IiwidCI6IjVmM2M1Njc1LWU1N2QtNDM1OC04ZTk5LTUzMzMxY2RlYzQ4ZiJ9)
+
 **Tech stack:**
 
 [![Tech stack](https://skillicons.dev/icons?i=docker,gcp,mongodb,py)](https://skillicons.dev)
