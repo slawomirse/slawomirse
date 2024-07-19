@@ -14,3 +14,4 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 ## Projects
 ### Real Estate Monitoring
 **Description:** This project aims to provide a comprehensive solution for monitoring real estate properties and their market trends. Whether you are a real estate investor, agent, or simply interested in the market, this project will provide you with valuable insights and tools
+**Project link:** https://github.com/slawomirse/real-estate-monitoring
