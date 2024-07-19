@@ -20,4 +20,4 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 
 **Tech stack:**
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
