@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Sławek! 👋
 
-<!--
-**slawomirse/slawomirse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Data Engineer with a keen interest in automation, data quality, and dashboarding. With a strong background in designing and optimizing ETL pipelines, I aim to leverage data to drive meaningful insights and efficiencies.
 
-Here are some ideas to get you started:
+## Skills
+ - Data Engineering: ETL pipelines, data integration, data quality
+ - Automation: CI/CD pipelines, automated testing frameworks
+ - Database Management: SQL (PostgreSQL, Oracle), NoSQL (MongoDB)
+ - Cloud Technologies: Google Cloud, Azure
+ - Dashboarding & Visualization: Power BI
+ - Programming Languages: Python, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### Real Estate Monitoring
+**Description:** This project aims to provide a comprehensive solution for monitoring real estate properties and their market trends. Whether you are a real estate investor, agent, or simply interested in the market, this project will provide you with valuable insights and tools
