@@ -21,5 +21,5 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 **Tech stack:**
 
 [![Tech stack](https://skillicons.dev/icons?i=docker,gcp,mongodb,py)](https://skillicons.dev)
-<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Alt text" width="100" height="50">
+<img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="Alt text" width="100" height="40">
 
