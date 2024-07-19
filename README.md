@@ -20,4 +20,4 @@ I'm a passionate Data Engineer with a keen interest in automation, data quality,
 
 **Tech stack:**
 
-[![Tech stack](https://skillicons.dev/icons?i=docker,gcp,mongodb,py)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=docker,gcp,mongodb,py)](https://skillicons.dev)[![POWERBI]](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&psig=AOvVaw3b8xRG--CV5dgdAzYRNlMw&ust=1721484908124000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC3k5als4cDFQAAAAAdAAAAABAE)]
